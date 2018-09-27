@@ -1,3 +1,12 @@
+/*
+Given a number less than 9999 - can you write a function that
+outputs this in words? For example 345 - Three hundred and forty
+five
+
+*/
+
+
+
 import java.util.Scanner;
 
 public class NumberToWords {
@@ -31,7 +40,7 @@ public class NumberToWords {
 		
 	}
 	static String lengthThree(int number) {
-		return unitDigit[number/100] + " Hundred " + lengthTwo(number%100);
+		return unitDigit[number/100] + " Hundred and " + lengthTwo(number%100);
 		
 	}
 	static String lengthFour(int number) {
