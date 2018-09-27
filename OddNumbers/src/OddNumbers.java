@@ -1,4 +1,7 @@
-
+/*
+Write a loop to print the odd numbers between 904 and 1100. Also,
+print the count. 
+*/
 public class OddNumbers {
 
 	public static void main(String[] args) {
