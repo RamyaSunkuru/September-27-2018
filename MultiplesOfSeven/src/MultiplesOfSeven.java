@@ -1,4 +1,6 @@
-
+/* Write a loop to find the sum of multiples of 7 between 1107 and
+21000.
+*/
 public class MultiplesOfSeven {
 
 	public static void main(String[] args) {
