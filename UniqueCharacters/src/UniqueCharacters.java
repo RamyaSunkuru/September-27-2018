@@ -1,4 +1,9 @@
-
+/*
+Write a program to print all the unique characters in the the
+following sentence - “I like working for Jyroo because I like the
+problem they are solving. Good education lays a strong foundation
+for a brighter tomorrow”
+*/
 
 public class UniqueCharacters {
 	static void uniqueCharacters(String sentence) {
