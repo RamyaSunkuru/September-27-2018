@@ -1,3 +1,12 @@
+/*
+Write a program that takes a sentence as an input and determines if
+the sentence qualifies the definition of a palindrome. Apply the code
+to the following sentence and print the result - “A nut for a jar of
+tuna.”
+*/
+
+
+
 import java.util.Scanner;
 
 public class PalindromeString {
